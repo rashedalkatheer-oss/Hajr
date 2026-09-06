@@ -2,7 +2,7 @@
   "name": "Hajr - إدارة الأسطبل",
   "short_name": "Hajr",
   "description": "نظام إدارة الأسطبل - تتبع الخيل والتمارين والصحة والمالية",
-  "start_url": "./index-12.html",
+  "start_url": "./index-13.html",
   "display": "standalone",
   "background_color": "#F0F4FA",
   "theme_color": "#1565C0",
@@ -11,14 +11,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon-192-2.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon-512-2.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
